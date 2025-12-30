@@ -1,4 +1,4 @@
-# Weatherly <img src="./public/lightlogo.png" alt="Logo" width="24"/>
+# Weatherly <img src="./public/lightlogo.png" alt="Logo" width="40"/>
 
 Weatherly is a simple and modern **weather app** built with **React, TypeScript, and Vite**.  
 It allows you to check real-time weather conditions of any location with a clean and responsive interface.
